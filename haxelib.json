@@ -1,0 +1,14 @@
+{
+	"name": "hxnodejs-dht-sensor",
+	"version": "0.0.0",
+	"url": "https://github.com/tong/hxnodejs-dht-sensor",
+	"description": "Type definitions for the dht-sensor NPM module",
+	"releasenote": "See CHANGELOG",
+	"tags": ["nodejs","hxnodejs","dht","sensor"],
+	"license": "MIT",
+	"contributors": ["tong"],
+	"classPath": "src",
+	"dependencies": {
+		"hxnodejs": ""
+	}
+}
